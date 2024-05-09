@@ -9,8 +9,7 @@
     - Initializing the database with the initializer js file
 - Mongoose schemas and validation
 
-### Solution demo
-- Go over specification, answer questions, READ MONGODB USAGE WARNING
+### demo
 - Navigation header
     - To be included in all pages (pug)
     - Changes depending on current session state (login vs. logout)
